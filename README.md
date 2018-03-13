@@ -1,5 +1,5 @@
 # akka 中文指南
-
+##### forked from endymecy/akka-guide-zh  增加自己的理解
 * [介绍] (introduce/what-is-akka.md)
     * [什么是akka](introduce/what-is-akka.md)
     * [为什么选择akka](introduce/why-akka.md)
