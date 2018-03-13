@@ -14,7 +14,7 @@ Akka的模块化做得非常好，它为不同的功能提供了不同的Jar包�
 
 - akka-actor – 标准Actor, 有类型Actor，IO Actor等
 - akka-agent – Agents, integrated with Scala STM
-- akka-camel – Apache Camel集成
+- akka-camel – Apache Camel集成(https://zh.wikipedia.org/wiki/Apache_Camel  可以用来路由protobuf消息)
 - akka-cluster – 集群关系管理, elastic routers.
 - akka-kernel – Akka微内核，可运行一个基本的最小应用服务器
 - akka-osgi – 在OSGi容器中使用的基本绑定, 包括akka-actor类
